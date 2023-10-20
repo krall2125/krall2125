@@ -1,5 +1,5 @@
-Hello! If you have any problems contact me on Twitter (@smoowe2125).
-Have a good day!
+Hello! I am a programmer, creator of the feedme esoteric programming language.
+I will keep making and working on projects, until I die!
 
 <!---
 smooua/smooua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
